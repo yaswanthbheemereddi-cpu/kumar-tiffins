@@ -1,0 +1,48 @@
+{
+  "tiffin": [
+    { "type": "item", "name": "Sambar Idly", "price": 15, "thumb": "images/idli_sambar.png", "emoji": "🍚", "desc": "Soft idly with hot sambar & chutney" },
+    { "type": "item", "name": "Idly (2 pcs)", "price": 10, "thumb": "images/idli_sambar.png", "emoji": "🍚", "desc": "Two soft steamed rice cakes" },
+    { "type": "item", "name": "Bonda (2 pcs)", "price": 10, "thumb": "images/bonda_snack.png", "emoji": "🧆", "desc": "Golden crispy potato bondas" },
+    { "type": "item", "name": "Vada (1 pc)", "price": 10, "thumb": "images/medu_vada.png", "emoji": "🧆", "desc": "Crispy medu vada with sambar" },
+    { "type": "item", "name": "Puri (1 pc)", "price": 15, "thumb": "images/puri_curry.png", "emoji": "🫓", "desc": "Fluffy deep-fried puri with curry" },
+    { "type": "item", "name": "Masala Dosa", "price": 25, "thumb": "images/masala_dosa_food.png", "emoji": "🫓", "desc": "Crispy dosa with spiced potato filling", "badge": "<span class=\"mi-badge\">★ Bestseller</span>", "rowClass": "bestseller-row" },
+    { "type": "item", "name": "Onion Dosa", "price": 20, "thumb": "images/masala_dosa_food.png", "emoji": "🫓", "desc": "Crispy dosa with caramelized onions" },
+    { "type": "item", "name": "Plain Dosa", "price": 15, "thumb": "images/masala_dosa_food.png", "emoji": "🫓", "desc": "Classic crispy dosa with sambar & chutney" },
+    { "type": "item", "name": "Egg Dosa", "price": 30, "thumb": "images/egg_dosa_food.png", "emoji": "🥚", "desc": "Crispy dosa layered with fluffy egg" },
+    { "type": "item", "name": "Double Egg Dosa", "price": 40, "thumb": "images/egg_dosa_food.png", "emoji": "🥚", "desc": "Double egg loaded dosa with spicy chutney", "badge": "<span class=\"mi-badge special\">🔥 Special</span>", "rowClass": "bestseller-row" },
+    { "type": "item", "name": "Upma Pesara Attu", "price": 30, "emoji": "🥘", "desc": "Moong dal crepe with upma filling" },
+    { "type": "item", "name": "Uthapam", "price": 30, "thumb": "images/uthapam_food.png", "emoji": "🫓", "desc": "Thick pancake with onions, tomatoes & chillies" }
+  ],
+  "drinks": [
+    { "type": "item", "name": "Badam Milk", "price": 30, "emoji": "🥛", "desc": "Rich & creamy almond milk" },
+    { "type": "item", "name": "Lassi", "price": 25, "emoji": "🥛", "desc": "Traditional creamy yogurt drink" },
+    { "type": "label", "text": "🥤 Thums Up" },
+    { "type": "item", "name": "Thums Up 250ml", "price": 20, "emoji": "🥤", "rowClass": "size-row" },
+    { "type": "item", "name": "Thums Up 1L", "price": 50, "emoji": "🥤", "rowClass": "size-row" },
+    { "type": "item", "name": "Thums Up 2.5L", "price": 100, "emoji": "🥤", "rowClass": "size-row" },
+    { "type": "label", "text": "🍊 Fanta" },
+    { "type": "item", "name": "Fanta 250ml", "price": 20, "emoji": "🍊", "rowClass": "size-row" },
+    { "type": "item", "name": "Fanta 1L", "price": 50, "emoji": "🍊", "rowClass": "size-row" },
+    { "type": "item", "name": "Fanta 2.5L", "price": 100, "emoji": "🍊", "rowClass": "size-row" },
+    { "type": "label", "text": "🥤 Pepsi" },
+    { "type": "item", "name": "Pepsi 250ml", "price": 20, "emoji": "🥤", "rowClass": "size-row" },
+    { "type": "item", "name": "Pepsi 1L", "price": 50, "emoji": "🥤", "rowClass": "size-row" },
+    { "type": "item", "name": "Pepsi 2.5L", "price": 100, "emoji": "🥤", "rowClass": "size-row" },
+    { "type": "label", "text": "💧 Water Bottle" },
+    { "type": "item", "name": "Water Bottle 500ml", "price": 10, "emoji": "💧", "rowClass": "size-row" },
+    { "type": "item", "name": "Water Bottle 1L", "price": 20, "emoji": "💧", "rowClass": "size-row" },
+    { "type": "item", "name": "Water Bottle 2L", "price": 35, "emoji": "💧", "rowClass": "size-row" },
+    { "type": "label", "text": "🍊 Pulpy Orange" },
+    { "type": "item", "name": "Pulpy Orange 200ml", "price": 25, "emoji": "🍊", "rowClass": "size-row" },
+    { "type": "item", "name": "Pulpy Orange 1L", "price": 50, "emoji": "🍊", "rowClass": "size-row" }
+  ],
+  "snacks": [
+    { "type": "item", "name": "Bajji (1 pc)", "price": 5, "thumb": "images/bajji_snack.png", "emoji": "🌶️", "desc": "Crispy battered chilli fritter" },
+    { "type": "item", "name": "Punukulu (Plate)", "price": 20, "thumb": "images/bonda_snack.png", "emoji": "🧆", "desc": "Golden fried rice flour dumplings" },
+    { "type": "item", "name": "Samosa (1 pc)", "price": 10, "thumb": "images/samosa_snack.png", "emoji": "🔺", "desc": "Crispy pastry with spiced potato filling" },
+    { "type": "item", "name": "Pani Puri", "price": 20, "thumb": "images/pani_puri.png", "emoji": "🫕", "desc": "Crispy puris filled with tangy flavored water", "badge": "<span class=\"mi-badge\">★ Popular</span>", "rowClass": "bestseller-row" },
+    { "type": "item", "name": "Chat", "price": 20, "thumb": "images/pani_puri.png", "emoji": "🥗", "desc": "Tangy & spicy mixed chat with chutneys" },
+    { "type": "item", "name": "Pakodi", "price": 20, "thumb": "images/bajji_snack.png", "emoji": "🍘", "desc": "Crispy onion & vegetable fritters" },
+    { "type": "item", "name": "Jelebi (1 pc)", "price": 5, "thumb": "images/jalebi_sweet.png", "emoji": "🍩", "desc": "Sweet crispy spiral soaked in sugar syrup" }
+  ]
+}
