@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tiny-flan-e9b1ae.netlify.app/sitemap.xml
+Sitemap: https://kumartiffins.online/sitemap.xml
